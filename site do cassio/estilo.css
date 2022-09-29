@@ -1,0 +1,49 @@
+@charset "utf-8";
+section {
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    line-height: 1.2rem;
+    padding: 1px;
+    border: 3px solid rgb(250, 250, 250);
+    margin-left: 500px;
+    margin-right: 500px;
+}
+body {
+    background: black;
+}
+.container {
+    color: white;
+}
+main {
+    color: white;
+}
+img {
+    width: 200px;
+    height 200px;
+}
+figure {
+    text-align: center
+}
+div.box {
+    width: 150px;
+    display: inline-block;
+    margin-right: 100px;
+    margin-left: 80px;
+    text-align: center;
+}
+span {
+    color: white;
+    margin-left: 72px;
+    white-space: nowrap;
+}
+
+.box1{
+text-align: center;
+margin-left: 45%;
+margin-right: 45%;
+}
+article {
+    text-align: center;
+}
